@@ -1,0 +1,3 @@
+module stateDesignPattern {
+	exports stateDesignPattern;
+}
